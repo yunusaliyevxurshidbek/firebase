@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468734736512",
+    "project_id": "ngdemo18",
+    "storage_bucket": "ngdemo18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468734736512:android:a66f76feb9d70ca1778e65",
+        "android_client_info": {
+          "package_name": "com.nextgen.ngdemo18"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW_w0LKBOhXgPuaWwD7QuB2i-cOxjzPiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
